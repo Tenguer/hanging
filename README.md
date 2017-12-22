@@ -1,21 +1,14 @@
-# hanging
+# Hanging-vuejs
 
 > A Vue.js project
 
-## Build Setup
+Le projet a été céé avec
+https://github.com/vuejs/vue-cli
 
-``` bash
-# install dependencies
-npm install
+## Voir le projet
 
-# serve with hot reload at localhost:8080
-npm run dev
+Cloner le repository puis :
+`npm install`
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+Pour lancer l'application :
+`npm run dev`
